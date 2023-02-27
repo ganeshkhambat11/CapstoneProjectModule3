@@ -1,0 +1,2 @@
+string name = 'Ganesh';
+System.debug('Length of String: '+name.length());
