@@ -1,0 +1,3 @@
+//Executed on Anonymoyus Window
+String a = 'Ganesh'; 
+System.debug('String endWith:'+a.endsWith('y'));
