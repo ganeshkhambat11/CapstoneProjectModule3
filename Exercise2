@@ -1,0 +1,4 @@
+Date todaysDate = date.today();
+Date added30Days = date.today().addDays(30);
+System.debug('Todays date'+todaysDate);
+System.debug('Added 30 days'+added30Days);
