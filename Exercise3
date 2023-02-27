@@ -1,0 +1,4 @@
+string integerValue = '10'; 
+integer intVal = Integer.valueOf(integerValue);
+System.debug('String to Integer: '+intVal);
+System.debug('Addition of 20: '+(intVal+20));
